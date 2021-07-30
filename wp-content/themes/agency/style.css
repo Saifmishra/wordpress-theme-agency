@@ -1,0 +1,55 @@
+/*
+Theme Name: hasagency
+Theme URI: https://hastheme.com/
+Author: HasTheme
+Author URI: https://devsaifulislam.com/
+Description: This is a personal portfolio wordpress theme. Designed by HasTheme and developed by hasTheme. This is very modern site.
+Requires at least: 5.0
+Tested up to: 5.6
+Requires PHP: 5.6
+Version: 3.0
+Text Domain: hasagency
+Tags: custom-menu, custom-logo, one-column, two-columns, left-sidebar, editor-style, featured-images, theme-options, threaded-comments, blog
+
+ */
+
+/*.blog-3 .info .meta li a {*/
+/*    display: -webkit-box;*/
+/*    display: -ms-flexbox;*/
+/*    display: inline;*/
+/*    -webkit-box-align: center;*/
+/*    -ms-flex-align: center;*/
+/*    align-items: center;*/
+/*}*/
+
+
+/*ul.sub-menu :before{*/
+/*    content: "";*/
+/*}*/
+/*li.first div.se_bizImg:before{*/
+/*    content: "<h1>6 Businesses Found <span class="headingDetail">(view all)</span></h1>";*/
+/*}*/
+
+
+
+/*.elementor-44 .elementor-element.elementor-element-76e2e6a .elementor-progress-wrapper .elementor-progress-bar {*/
+/*    background-color: #fff;*/
+/*    margin-bottom: 21px;*/
+/*    padding-bottom: 33px;*/
+/*    overflow: hidden;*/
+/*    display: block;*/
+/*    border-bottom: solid 9px red;*/
+/*}*/
+
+
+/*.elementor-44 .elementor-element.elementor-element-76e2e6a .elementor-progress-wrapper .elementor-progress-bar {*/
+/*    !* background-color: #6B1450; *!*/
+/*    border-bottom: solid 1px red;*/
+/*}*/
+
+
+
+
+/*.elementor-invisible {*/
+/*    visibility: visible;*/
+/*}*/
